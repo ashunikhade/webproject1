@@ -89,3 +89,34 @@ clear
 sudo su -
 sudo systemctl stop jenkins
 sudo systemctl start jenkins
+clear
+git status
+git add .
+git commit -m "added"
+git status
+clear
+git --version
+git status
+mkdir webproject1
+cd webproject1
+ls
+cat > aboutus.html
+cat > career.html
+cat > home.html
+clear
+ls
+git status
+cat >> career.html
+clear
+ls
+cd webproject1
+ls
+git status
+git add .
+git status
+cd ..
+git status
+add .
+git add .
+git status
+git commit
